@@ -7,6 +7,7 @@
   See Kestra Yaml Flow file "09_gcp_taxi_scheduled"
 
 ##2 Login to GCP Console and create Dataset in BigQuery
+
 '''
     CREATE SCHEMA *dataset*
 OPTIONS(
