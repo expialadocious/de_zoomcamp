@@ -2,4 +2,4 @@
 
 ## Question 3
 ### Used duckdb cli to query table in duckdb 
-![duckdb cli](question 3 used duckdb cli to run query.png)
+![duckdb cli](question_3_used_duckdb_cli.png)
