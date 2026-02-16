@@ -2,7 +2,7 @@
 
 ## Question 3
 ### Used duckdb cli to query table in duckdb 
-![duck_db](question-3-used-duckdb-cli.png)
+![duck_db](week4_dbt_duckdb_hmwk/question-3-used-duckdb-cli.png)
 
 ## Question 4
 ### Used duckdb ui in browser to write exploratory queries and main query to answer question
